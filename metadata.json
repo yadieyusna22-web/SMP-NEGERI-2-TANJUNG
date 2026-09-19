@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistem Informasi Pengelolaan Siswa - SMP NEGERI 2 TANJUNG",
+  "description": "Sistem terpadu absensi, nilai akademik, penilaian karakter, tata tertib, poin pelanggaran \u0026 reward siswa teladan, notifikasi WhatsApp orang tua, serta analitik interaktif berbasis peran SMP Negeri 2 Tanjung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
